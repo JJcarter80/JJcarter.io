@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jerome! <br/><a href="https://github.com/joshmadakor1"> Python Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hi, I'm Jerome! <br/><a href="https://github.com/jjcarter80"> Python Programmer</a>, <a href="https://www.linkedin.com/in/j-carter-johnson/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cyber Security Projects :</h2>
 
@@ -25,7 +25,7 @@ Build a Network
 4:20 BONUS Project(s) - Coding
 
 
-<h2>👨‍💻 Inrustion Detection/Prevention Projects :</h2>
+<h2>👨‍💻 Intrusion Detection/Prevention Projects :</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -40,7 +40,7 @@ Build a Network
 [linkedin]: https://linkedin.com/in/j-carter-johnson
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jjcarter80/jjcarter80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
