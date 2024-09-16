@@ -29,10 +29,7 @@ Build a Network
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="" />][instagram]
+
 
 
 [youtube]: https://www.youtube.com/c/jjthecarter
