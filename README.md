@@ -4,10 +4,11 @@
 
 - <b> SIEM (Splunk, Microsoft Sentinal)</b>
   - [Praciting DS & Algos in Python]
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- 
   - [Image Analysis Middleware] <b><i>(Potentially NSFW)</b></i>
 - <b> LINUX </b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
+  - [Linux File Permissions] <b> file:///C:/Users/romed/OneDrive/Desktop/Cybersecurity%20JJ/Google%20Cert/Linux/File%20permissions%20in%20Linux%20JJ.pdf <b>
   - [JWipe (Disk Wiping Utility)]
   - [Active Directory Bulk User Creation]
   - [FIM (File Integrity Monitor)]
